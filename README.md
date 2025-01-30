@@ -1,3 +1,3 @@
 # Self-Learning-programming
 
-This program is my high school Self Learning programming 
+高中自主學習小專案
