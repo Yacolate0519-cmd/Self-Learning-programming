@@ -29,5 +29,4 @@ while True:
     plt.pause(0.1)
 
     x += 0.1
-    
         
